@@ -2,7 +2,8 @@ ArkenTech Campaign Management Dashboard
 A modern, web-based campaign dashboard developed for ArkenTech Solutions to streamline and monitor marketing campaign performance. Built with Vite, React (TypeScript), Tailwind CSS, and shadcn/ui components, this tool supports real-time campaign tracking, lead performance insights, and team-specific dashboards.
 
 🔗 Project Info
-Live Preview: View on Lovable
+Live Preview: <img width="1440" height="776" alt="image" src="https://github.com/user-attachments/assets/96d99c83-140d-4de6-a669-c0bd2aadd58c" />
+
 
 Tech Stack: React + Vite + Tailwind + TypeScript + MySQL + Bun Runtime
 
