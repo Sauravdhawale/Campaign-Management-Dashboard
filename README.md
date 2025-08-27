@@ -8,15 +8,10 @@ Tech Stack: React + Vite + Tailwind + TypeScript + MySQL + Bun Runtime
 
 ✨ Features
 Campaign creation, editing, deletion
-
 Real-time campaign status: Active, Paused, Completed
-
 Budget allocation & lead delivery tracking
-
 Pacing status: On Track, Behind, Completed
-
 Date-based filtering
-
 Team-based views with role-specific access:
 
 Team Admin: Access to only their assigned team campaigns
