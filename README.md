@@ -20,15 +20,10 @@ Super Admin: Full access to all campaigns across teams
 
 🧱 Technologies Used
 Frontend: React, Tailwind CSS, TypeScript
-
 Backend: Node.js (via API routes)
-
 Database: MySQL (arkentech_crm.sql provided)
-
 Build Tool: Vite
-
 Runtime: Bun
-
 UI Library: shadcn-ui
 
 🗂 Folder Structure
